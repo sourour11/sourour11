@@ -1,0 +1,24 @@
+
+souro@DESKTOP-FM9KLK2 MINGW64 ~/OneDrive/Bureau
+$ /c/Users/souro/OneDrive/Bureau/CHECKPOINT.DOM/fourth.txt
+bash: /c/Users/souro/OneDrive/Bureau/CHECKPOINT.DOM/fourth.txt: Is a directory
+
+souro@DESKTOP-FM9KLK2 MINGW64 ~/OneDrive/Bureau
+$ git commint:"adding third.txt"
+git: 'commint:adding third.txt' is not a git command. See 'git --help'.
+
+souro@DESKTOP-FM9KLK2 MINGW64 ~/OneDrive/Bureau
+$ /c/Users/souro/OneDrive/Bureau/CHECKPOINT.DOM/fourth.txt
+bash: /c/Users/souro/OneDrive/Bureau/CHECKPOINT.DOM/fourth.txt: Is a directory
+
+souro@DESKTOP-FM9KLK2 MINGW64 ~/OneDrive/Bureau
+$ git commint:"adiing fourth.txt"
+git: 'commint:adiing fourth.txt' is not a git command. See 'git --help'.
+
+souro@DESKTOP-FM9KLK2 MINGW64 ~/OneDrive/Bureau
+$ ident-remouve by "fourth.txt"
+bash: ident-remouve: command not found
+
+souro@DESKTOP-FM9KLK2 MINGW64 ~/OneDrive/Bureau
+$ git commint:"remouving third.txt"
+git: 'commint:remouving third.txt' is not a git command. See 'git --help'.
